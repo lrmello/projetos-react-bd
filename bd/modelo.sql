@@ -1,0 +1,1 @@
+CREATE SCHEMA `medico_bd` use `medico_bd`
