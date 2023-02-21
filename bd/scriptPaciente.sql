@@ -1,9 +1,11 @@
-CREATE TABLE `cliente`(
-    `id_cliente` INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
-    `nome` VARCHAR(255),
-    `email` VARCHAR(255),
-    `endereco` TEXT,
-    `telefone` VARCHAR(15)
+CREATE TABLE `paciente` (
+  `id_paciente` int PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  `nome` varchar(30),
+  `email` varchar(50),
+  `dtNascimento` date,
+  `endereco` text,
+  `telefone` varchar(15),
+  `genero` varchar(1)
 );
 
 INSERT INTO `Cliente` (nome,endereco,email,telefone) VALUES
