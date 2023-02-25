@@ -1,0 +1,15 @@
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    height: 33px;
+}
+
+.button{
+    background: transparent;
+    background-color: turquoise;
+    border: none;
+}
