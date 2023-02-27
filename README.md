@@ -7,11 +7,11 @@ Foi criado um banco de dados via MySQL no propósito na ideia de fazer um consul
 Banco de dados consultório:
 
 <div>
-![Consultório](https://uploaddeimagens.com.br/imagens/GbohQsc)
+![Consultório](bdConsultório/Consult%C3%B3rio.png)
 </div>
 
 Banco de dados Logistica:
 
 <div>
-![CD](https://uploaddeimagens.com.br/imagens/y3UD4N4)
+![CD](bdLog/Centro%20de%20distribui%C3%A7%C3%A3o.png)
 </div>
