@@ -1,0 +1,16 @@
+INSERT INTO funcionario (nomeFuncionario, emailFuncionario) VALUES
+("João Silva", "joao.silva@email.com"),
+("Maria Santos", "maria.santos@email.com"),
+("Pedro Oliveira", "pedro.oliveira@email.com"),
+("Ana Pereira", "ana.pereira@email.com"),
+("Lucas Sousa", "lucas.sousa@email.com"),
+("Carla Alves", "carla.alves@email.com"),
+("Ricardo Costa", "ricardo.costa@email.com"),
+("Juliana Gomes", "juliana.gomes@email.com"),
+("Fernando Rodrigues", "fernando.rodrigues@email.com"),
+("Larissa Ribeiro", "larissa.ribeiro@email.com"),
+("Gabriel Santos", "gabriel.santos@email.com"),
+("Mariana Lima", "mariana.lima@email.com"),
+("Roberto Almeida", "roberto.almeida@email.com"),
+("Cristina Souza", "cristina.souza@email.com"),
+("Raphael Nunes", "raphael.nunes@email.com");

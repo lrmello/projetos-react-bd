@@ -1,0 +1,16 @@
+INSERT INTO materiais (nomeEquipamento, qtd) VALUES
+('Máscara PFF2', 500),
+('Óculos de Proteção', 200),
+('Luvas de Látex', 1000),
+('Álcool Gel 70%', 50),
+('Termômetro Infravermelho', 5),
+('Avental Descartável', 300),
+('Capote Cirúrgico', 150),
+('Touca Descartável', 500),
+('Sapatilha Descartável', 200),
+('Lençol Descartável', 100),
+('Esparadrapo', 20),
+('Gaze Estéril', 50),
+('Agulha Descartável', 100),
+('Seringa Descartável', 200),
+('Cateter Intravenoso', 50);
