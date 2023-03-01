@@ -7,11 +7,12 @@ Foi criado um banco de dados via MySQL no propósito na ideia de fazer um consul
 Banco de dados consultório:
 
 <div>
-![Consultório](bdConsultório/Consult%C3%B3rio.png)
+![Consultório](https://github.com/lrmello/projetos-react-bd/issues/2#issuecomment-1447239611)
+
 </div>
 
 Banco de dados Logistica:
 
 <div>
-![CD](bdLog/Centro%20de%20distribui%C3%A7%C3%A3o.png)
+![Centro de distribuição](https://github.com/lrmello/projetos-react-bd/issues/2#issuecomment-1447239611)
 </div>
